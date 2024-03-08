@@ -1,0 +1,257 @@
+/* body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e9edee;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+h2 {
+  font-weight: 600;
+  line-height: 2em;
+}
+
+/* header */
+header {
+  background-color: #222f3f;
+}
+
+header img {
+  width: 10%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+}
+
+nav {
+  background-color: #364757;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+}
+
+nav li {
+  display: block;
+  display: inline;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 15px;
+}
+
+header a:visited,
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+/* main */
+main {
+  padding: 20px 15px;
+}
+
+button {
+  background-color: #f36600;
+  color: white;
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 20px;
+  border: transparent;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: 5px 5px 5px grey;
+}
+
+#gift_guides {
+  background-image: url(../images/bg-image.png);
+  background-size: 100%;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+#gift_guides p {
+  font-size: 0.7em;
+  font-weight: 700;
+}
+
+#gift_guides a:visited,
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+#gift_guides a:hover {
+  color: #222f3f;
+}
+
+#gift_guides:hover {
+  background-image: url(../images/bg-img.png);
+  background-size: 100%;
+}
+
+#div2 {
+  background-color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+#perfect_gift {
+  margin-bottom: 5px;
+}
+
+#perfect_gift p,
+h2 {
+  display: inline-block;
+}
+
+#perfect_gift p {
+  font-size: 0.7em;
+  padding-left: 15px;
+  color: #048286;
+  font-weight: 700;
+}
+
+#photos {
+  display: inline-block;
+  min-width: 750px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.ph1 {
+  background-image: url(../images/img_1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: 25px;
+  height: 400px;
+  width: 22%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(194, 193, 193);
+}
+
+.ph2 {
+  background-image: url(../images/img_2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: 25px;
+  height: 400px;
+  width: 22%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(194, 193, 193);
+}
+
+.ph3 {
+  background-image: url(../images/img_3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: 25px;
+  height: 400px;
+  width: 22%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(194, 193, 193);
+}
+
+.ph4 {
+  background-image: url(../images/img_4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 22%;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(194, 193, 193);
+}
+
+#gifting_game {
+  text-align: center;
+}
+
+#gifting_game p,
+h2 {
+  display: inline-block;
+}
+
+#gifting_game p {
+  font-size: 0.7em;
+  padding-left: 15px;
+  color: #048286;
+  font-weight: 700;
+}
+
+#gifting_game img {
+  width: 100%;
+}
+
+#audio_accessories {
+  text-align: center;
+}
+
+#audio_accessories p,
+h2 {
+  display: inline-block;
+}
+
+#audio_accessories p {
+  font-size: 0.7em;
+  padding-left: 15px;
+  color: #048286;
+  font-weight: 700;
+}
+
+#audio_accessories img {
+  width: 100%;
+}
+
+/*footer*/
+
+#back-to-top {
+  background-color: #364757;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  font-size: 0.8em;
+  font-weight: 700;
+  text-align: center;
+}
+
+#footer {
+  background-color: #222f3f;
+  text-align: center;
+}
+
+#footer img {
+  width: 10%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#back-to-top a:visited,
+a:link {
+  color: white;
+}
+
+#back-to-top {
+  text-decoration: underline;
+  color: white;
+}
